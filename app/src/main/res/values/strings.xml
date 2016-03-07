@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Heart</string>
+    <string name="enc_principal"> Technological Heart </string>
+    <string name="texto_boton"> graficar </string>
+    <string name="texto_boton1"> no graficar </string>
+    <string name="Texto_cambiar">Texto cambio</string>
+    <string name="Dato_1">meter dato</string>
+
+
+</resources>
